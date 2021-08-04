@@ -1,0 +1,15 @@
+C:\Users\TK\source\repos\IcerWindows\bin\Debug\IcerWindows.exe.config
+C:\Users\TK\source\repos\IcerWindows\bin\Debug\IcerWindows.exe
+C:\Users\TK\source\repos\IcerWindows\bin\Debug\IcerWindows.pdb
+C:\Users\TK\source\repos\IcerWindows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TK\source\repos\IcerWindows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.csproj.AssemblyReference.cache
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.Properties.Resources.resources
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.csproj.GenerateResource.cache
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.csproj.CoreCompileInputs.cache
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.csproj.CopyComplete
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.exe
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.pdb
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.CustomerData.resources
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.Form1.resources
+C:\Users\TK\source\repos\IcerWindows\obj\Debug\IcerWindows.APIParallelCalls.resources
